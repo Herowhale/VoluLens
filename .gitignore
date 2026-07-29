@@ -1,0 +1,14 @@
+.dotnet/
+.cache/
+.packages/
+artifacts/
+release-assets/
+**/bin/
+**/obj/
+.vs/
+**/WebView2Data/
+TestResults/
+storage_analysis*.json
+storage_scan*.json
+storage_report_server*.log
+
